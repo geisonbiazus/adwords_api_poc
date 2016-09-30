@@ -9,7 +9,7 @@ The corresponding feature to Keywords Planner on API is [Targeting Idea Service]
 The TargetingIdeaService and TrafficEstimatorService return dummy data to test accounts. Source: [
 Managing Accounts](https://developers.google.com/adwords/api/docs/guides/accounts-overview#test_accounts)
 
-# Running the example]
+# Running the example
 
 To run the example you will need an [Adwords Manager Account](https://developers.google.com/adwords/api/docs/guides/signup) and an [Adwords Test Account](https://developers.google.com/adwords/api/docs/guides/accounts-overview#test_accounts)
 
